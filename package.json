@@ -27,12 +27,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/florianheinemann/passwordless-mongostore.git"
+    "url": "git@github.com:freedomson/passwordless-mongostore-openshift.git"
   },
   "bugs": {
     "url": "https://github.com/florianheinemann/passwordless-mongostore/issues"
   },
-  "homepage": "https://github.com/florianheinemann/passwordless-mongostore",
+  "homepage": "git@github.com:freedomson/passwordless-mongostore-openshift.git",
   "keywords": [
     "passwordless",
     "mongo",
