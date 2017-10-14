@@ -7,7 +7,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "mongodb": "^1.4.5",
+    "mongodb": "2.2.33",
     "passwordless-tokenstore": "0.0.8"
   },
   "devDependencies": {
