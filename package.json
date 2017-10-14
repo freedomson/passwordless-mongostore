@@ -1,6 +1,6 @@
 {
   "name": "passwordless-mongostore-openshift",
-  "version": "0.0.3",
+  "version": "0.0.10",
   "description": "MongoDB TokenStore for Passwordless",
   "main": "index.js",
   "scripts": {
